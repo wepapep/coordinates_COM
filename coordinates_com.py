@@ -19,7 +19,7 @@ coordinates_filename = "xycoords.txt";
 xycoords = open(coordinates_filename, "w");
 
 #insert coordinates here according to required format (see above)
-#[ [string_name [ [point1_X, point1_Y] ... ] ], ... ];
+#[ [string_name [ [point1_X, point1_Y], ... ] ], ... ];
 coordinateslist = [
 ];
 
